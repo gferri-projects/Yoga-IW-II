@@ -1,0 +1,22 @@
+.logo{
+    width: 5%;
+    margin-left: 5%;
+    margin-right: 3%;
+}
+
+.navbar{
+    background-color: #ac58aa;
+}
+
+.img-inicial{
+    width: 100%;
+}
+
+/* SECTION HISTORIA DE SHIVA*/
+#historia-shiva{
+    background-color: #cf9bcc;
+}
+
+.img-section01{
+    width: 40%;
+}
