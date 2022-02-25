@@ -5,7 +5,7 @@ h1{
     font-family: 'Merienda', cursive;
 }
 
-h2,h3{
+h2,h3,h4,h5,h6{
     font-family: 'Caveat', cursive;
     font-family: 'Indie Flower', cursive;
     font-family: 'Josefin Sans', sans-serif;
@@ -20,10 +20,28 @@ p{
     font-family: 'Josefin Sans', sans-serif;
 }
 
+li{
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
 footer{
     background-color: #A64B5B;
     height: 150px;
 
+}
+
+.container-my{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.elemento{
+    width: 100%;
+    height: 5%
 }
 
 .logo-f{
@@ -42,6 +60,7 @@ footer{
 
 .navbar{
     background-color: #A64B5B;
+    scroll-behavior: smooth;
 }
 
 
@@ -52,6 +71,8 @@ footer{
 }
 
 a{
+    font-family: 'Caveat', cursive;
+    font-family: 'Indie Flower', cursive;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 22px;
 }
@@ -96,20 +117,6 @@ a{
 }
 
 /* SECTION HISTORIA YOGA */
-#historia-yoga{
-    background-color: rgb(238, 245, 146);
-    height: 600px;
-    margin-bottom: 10%;
-    margin-top: 5%;
-}
-
-.r-dois{
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 8%;
-
-}
-
 .img-h-yoga{
     width: 10%;
     margin-left: 45%;
@@ -130,5 +137,38 @@ a{
 
 .espaco{
     margin-top: 10%;
+}
+
+.espaco2{
+     margin-bottom: 5%;
+}
+
+.icon-yoga{
+    width: 50%;
+}
+
+/* */
+.img-pre{
+    width: 100%;
+
+}
+
+.img-pos{
+    width: 150%;
+}
+
+#contato{
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
+
+.icon-contato{
+    width: 200%;
+
+}
+
+.h-cont{
+    margin-left: 5%;
+    margin-bottom: 2%;
 }
 
