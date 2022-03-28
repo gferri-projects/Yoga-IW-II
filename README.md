@@ -1,3 +1,4 @@
 [SITE](https://gferri-projects.github.io/Yoga-IW-II/)
----------------------------
-Site feito com Boostrap, HTML  e CSS
+
+- Desenvolvido com Bootstrap, HTML  e CSS
+- Avaliação e revisão de Bootstrap
